@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and TailwindCSS(https://tailwindcss.com/)
+
+## Screenshot
+Mobile  
+![](./public/Screenshot_Mobile_Coffe_Listing.png)  
+Tablet  
+![](./public/Screenshot_Tablet_Coffe_Listing.png)  
+Desktop  
+![](./public/Screenshot_Desktop_Coffe_Listing.png)  
+
 
 ## Available Scripts
 
